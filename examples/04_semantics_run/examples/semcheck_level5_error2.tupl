@@ -1,0 +1,6 @@
+define Plusminus[xx, yy]
+begin
+  != [xx+yy, xx-yy].
+end.
+
+!= [1,2,3] | each:Plusminus.

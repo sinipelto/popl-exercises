@@ -1,0 +1,10 @@
+# python import generated files
+**/*.pyc
+**/__pycache__
+# pycharm virtualenv
+**/venv
+# course example venv
+**/popl_venv
+# PLY yacc generated files
+**/parser.out
+**/parsetab.py

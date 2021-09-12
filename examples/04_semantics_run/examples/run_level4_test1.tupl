@@ -1,0 +1,8 @@
+define Double[xx]
+begin
+  result <- 2 * xx.
+  = result.
+end.
+
+one <- 1.
+= Double[one].

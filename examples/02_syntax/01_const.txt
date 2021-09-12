@@ -1,0 +1,8 @@
+constant_definition( N )
+constant_definition( PI )
+constant_definition( ROUND )
+atom( this is an expression so it can be the last item in program )
+factor
+term
+simple_expression
+syntax OK

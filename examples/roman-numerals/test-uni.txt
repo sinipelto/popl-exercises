@@ -1,0 +1,33 @@
+program
+├──stmts[0]: unary_op (⇑)
+│  └──roman: literal (1)
+├──stmts[1]: unary_op (⇑)
+│  └──roman: literal (2)
+├──stmts[2]: ⊕
+├──stmts[3]: ψ
+├──stmts[4]: unary_op (⇑)
+│  └──roman: literal (1)
+├──stmts[5]: unary_op (⇑)
+│  └──roman: literal (11)
+├──stmts[6]: ↔
+├──stmts[7]: ⊖
+├──stmts[8]: ψ
+├──stmts[9]: unary_op (⇑)
+│  └──roman: literal (1)
+├──stmts[10]: unary_op (⇑)
+│  └──roman: literal (2)
+├──stmts[11]: unary_op (⇑)
+│  └──roman: literal (3)
+├──stmts[12]: complex_stmt
+│  ├──idx1: literal (2)
+│  ├──idx2: literal (3)
+│  └──op: ↔
+├──stmts[13]: unary_op (⇑)
+│  └──roman: literal (1)
+├──stmts[14]: unary_op (⇑)
+│  └──roman: literal (2)
+├──stmts[15]: program
+│  ├──stmts[0]: ⊕
+│  └──stmts[1]: ψ
+├──stmts[16]: ⊖
+└──stmts[17]: ψ
