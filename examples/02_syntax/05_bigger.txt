@@ -1,0 +1,75 @@
+constant_definition( N )
+pipe_expression
+tuplevariable_definition( <factorialten> )
+atom( I know that 10! is  )
+factor
+term
+simple_expression
+pipe_expression
+tuplevariable_definition( <dummyvar> )
+atom( aa )
+factor
+term
+simple_expression
+atom(  doubled is )
+factor
+term
+simple_expression
+atom( 2 )
+factor
+term
+atom( aa )
+factor
+term
+simple_expression
+pipe_expression
+tuplevariable_definition( <tuple> )
+atom
+factor
+term
+simple_expression
+func_definition( Print_and_double )
+atom( 1 )
+factor
+term
+simple_expression
+atom( 5 )
+factor
+term
+simple_expression
+atom( 2 )
+factor
+term
+simple_expression
+atom( 8 )
+factor
+term
+simple_expression
+atom( 4 )
+factor
+term
+simple_expression
+atom( 5 )
+factor
+term
+simple_expression
+pipe_expression
+tuplevariable_definition( <doubles> )
+pipe_expression
+tuplevariable_definition( <sumofdoubles> )
+atom
+factor
+term
+simple_expression
+variable_definition( sum )
+atom( Sum of doubles is  )
+factor
+term
+simple_expression
+atom( sum )
+factor
+term
+simple_expression
+function_call( Print )
+pipe_expression
+syntax OK

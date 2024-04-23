@@ -1,0 +1,7 @@
+define Plusminus[xx, yy]
+begin
+  != [xx+yy, xx-yy].
+end.
+
+one <- 1.
+!= Plusminus[2, one].

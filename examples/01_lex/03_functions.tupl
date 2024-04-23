@@ -1,0 +1,6 @@
+define Squares[arg]
+begin
+  [arg * arg].
+end.
+
+[1..10] | each: Squares -> Print.

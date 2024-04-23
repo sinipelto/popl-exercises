@@ -1,0 +1,25 @@
+atom( 7 )
+factor
+term
+simple_expression
+variable_definition( ab )
+atom( 999 )
+factor
+term
+simple_expression
+variable_definition( iI )
+atom( 0 )
+factor
+term
+simple_expression
+variable_definition( i9_abc )
+atom( 9 )
+factor
+term
+simple_expression
+variable_definition( a9 )
+atom( end )
+factor
+term
+simple_expression
+syntax OK

@@ -1,0 +1,8 @@
+[user]
+	email = email@mail.com
+	name = Sinipelto
+	signingkey = 676B47F563E23E08E933281D4DDF2BB77AC6E10A
+[core]
+	editor = nano
+[commit]
+	gpgsign = true

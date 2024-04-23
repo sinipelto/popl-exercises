@@ -1,0 +1,15 @@
+atom( 0 )
+factor
+term
+simple_expression
+variable_definition( aa )
+atom( return expr )
+factor
+term
+simple_expression
+func_definition( Function )
+atom( last expression )
+factor
+term
+simple_expression
+syntax OK

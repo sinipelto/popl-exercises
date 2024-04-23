@@ -1,0 +1,5 @@
+define Func[aa]
+begin
+  != [aa, -aa].
+end.
+= Func[1].

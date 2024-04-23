@@ -1,0 +1,7 @@
+define Plusminus[xx, yy]
+begin
+  != [xx+yy, xx-yy].
+end.
+
+[2, 1] | Plusminus | Print -> <threeone>.
+!= <threeone>.

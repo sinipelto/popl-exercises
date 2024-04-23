@@ -1,0 +1,5 @@
+one <- 1.
+two <- one + 1.
+five <- 2 * two + one.
+= (five + one) * two. { Twelve, I hope. }
+

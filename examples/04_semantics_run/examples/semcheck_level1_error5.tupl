@@ -1,0 +1,6 @@
+bb <- Func[1].
+define Func[aa]
+begin
+  = aa.
+end.
+= bb.

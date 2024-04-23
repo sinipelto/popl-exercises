@@ -1,0 +1,9 @@
+define Func[aa]
+begin
+  = aa.
+end.
+define Func[aa]
+begin
+  = 0.
+end.
+= Func[1].
